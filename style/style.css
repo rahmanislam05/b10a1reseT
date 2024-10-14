@@ -1,0 +1,19 @@
+/* common style for the code */
+.button{
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    padding: 10px;
+    background: none;
+}
+
+/* singel style for the code */
+nav> p{
+    font-weight: 800;
+    font-size: x-large;
+}
+nav{
+    flex-direction: row ;
+}
+.background{
+    background-image: url(../assets/Hero-bg.png);
+}
