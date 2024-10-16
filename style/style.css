@@ -1,18 +1,13 @@
-/* common style for the code */
-.button{
-    border: 1px solid rgb(13, 19, 33);
-    border-radius: 8px;
-    padding: 10px;
-    background: none;
-}
-
-/* singel style for the code */
-nav> p{
-    font-weight: 800;
-    font-size: x-large;
+/* font style */
+.azeret-mono-g {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
 }
 nav{
-    flex-direction: row ;
+    display: flex;
+    justify-content: space-between;
 }
 .background{
     background-image: url(../assets/Hero-bg.png);
