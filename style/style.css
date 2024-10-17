@@ -11,4 +11,6 @@ nav{
 }
 .background{
     background-image: url(../assets/Hero-bg.png);
+    text-align: center;
+    padding: 40px 0;
 }
